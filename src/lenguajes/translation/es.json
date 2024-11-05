@@ -27,6 +27,12 @@
     "Description3": "La implementación de tecnologías inteligentes, como sistemas de localización por Bluetooth, está mejorando la experiencia del usuario al ofrecer información en tiempo real y optimizar la gestión de rutas."
   },
 
+  "App": {
+    "Question": "Eres usuario de nuestro transporte?",
+    "Description": "Presiona el botón a continuación para descargar nuestro aplicativo móvil y optimiza tu experiencia en el MIO con un solo toque.",
+    "Button": "Descarga aquí"
+  },
+
   "Nav": { "Button": "Iniciar sesión" },
 
   "Dashboard": {

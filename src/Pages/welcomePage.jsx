@@ -20,7 +20,7 @@ export default function WelcomePage() {
     <div className="flex flex-col bg-slate_100">
       <Navbar />
       <Hero />
-      <div className="flex flex-col h-screen space-y-40 pt-40" id="Noticias">
+      <div className="flex flex-col flex-1 h-auto lg:h-screen space-y-40 pt-40 2xl:flex-auto" id="Noticias">
         <div className="flex flex-col justify-center items-center space-y-6">
           <h1 className="text-blueForm font-extrabold text-3xl">
             {t("Welcome.Title")}
@@ -45,7 +45,7 @@ export default function WelcomePage() {
           />
         </div>
       </div>
-      <div className="flex flex-col h-screen">
+      <div className="flex flex-col flex-1 h-auto lg:h-screen 2xl:flex-auto">
         <div className="flex flex-row h-full w-full justify-between items-center px-20">
           <div className="flex w-1/2 h-full justify-center items-center">
             <div className=" flex h-1/2 max-w-xs justify-center items-center">
