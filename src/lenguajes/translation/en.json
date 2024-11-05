@@ -1,0 +1,79 @@
+{
+  "Login": {
+    "Title": "Login",
+    "EmailPlaceholder": "Email address",
+    "PasswordPlaceholder": "Password",
+    "Button": "Enter"
+  },
+
+  "Hero": {
+    "Title": "Welcome",
+    "Parragraph": "Get the latest news about the MIO and stay informed of everything that happens in the city's mass transit system.",
+    "Button": "Start"
+  },
+
+  "Welcome": {
+    "Document": "Home",
+    "Title": "News",
+    "Subtitle": "Find out the latest news about MIO"
+  },
+
+  "Cards": {
+    "Title1": "Innovation in Transportation",
+    "Title2": "Inclusive and Sustainable Mobility",
+    "Title3": "Use of Advanced Technology",
+    "Description1": "An event was held where young people presented solutions to improve public transportation, highlighting the importance of community participation in the creation of more efficient applications.",
+    "Description2": "A new research agenda promotes the use of mobile applications that favor inclusion and sustainability, which is key to increasing service acceptance among all users.",
+    "Description3": "The implementation of intelligent technologies, such as Bluetooth location systems, is improving the user experience by providing real-time information and optimizing route management."
+  },
+
+  "App": {
+    "Question": "Are you a user of our transport?",
+    "Description": "Click the button below to download our mobile app and optimize your MIO experience with a single touch.",
+    "Button": "Download here"
+  },
+
+  "Nav": { "Button": "Login" },
+
+  "Dashboard": {
+    "Title": "Users",
+    "Table": {
+      "Name": "Full Name",
+      "Email": "Email address",
+      "Card": "Card number",
+      "Balance": "Balance",
+      "Status": "Status",
+      "Activate": "Activate",
+      "Deactivate": "Deactivate"
+    }
+  },
+  "Drawer": {
+    "Option1": "Home",
+    "Option2": "Register",
+    "Option3": "Stadistics",
+    "Logout": "Logout"
+  },
+
+  "Register": {
+    "Title": "Enter the following data to register an administrator",
+    "EmailPlaceholder":"Email",
+    "PasswordPlaceholder":"Password",
+    "NamePlaceholder":"Name",
+    "RepPassPlaceholder":"Repeat password",
+    "StatusPlaceholder":"Status",
+    "Button":"Register",
+    "Selector":"Select a state",
+    "SelectorOpt1":"Active",
+    "SelectorOpt2":"Inactive"
+  },
+
+  "Stads":{
+    "Title1":"Registered users",
+    "Title2":"Active users",
+    "Title3":"Inactive users",
+    "Description1":"Number of users currently registered in the mobile application.",
+    "Description2":"Number of active users on the platform.",
+    "Description3":"Number of inactive users on the platform",
+    "StadTitle":"Balance per user"
+  }
+}

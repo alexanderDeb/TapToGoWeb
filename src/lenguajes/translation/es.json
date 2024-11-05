@@ -1,0 +1,73 @@
+{
+  "Login": {
+    "Title": "Inicio de sesión",
+    "EmailPlaceholder": "Correo electroníco",
+    "PasswordPlaceholder": "Contraseña",
+    "Button": "Ingresar"
+  },
+
+  "Hero": {
+    "Title": "Bienvenido",
+    "Parragraph": "Conoce las últimas noticias sobre el MIO y mantente informado de todo lo que sucede en el sistema de transporte masivo de la ciudad.",
+    "Button": "Empezar"
+  },
+
+  "Welcome": {
+    "Document": "Inicio",
+    "Title": "Noticias",
+    "Subtitle": "¡Entérate de las últimas noticias sobre el MIO!"
+  },
+
+  "Cards": {
+    "Title1": "Innovación en el Transporte",
+    "Title2": "Movilidad Inclusiva y Sostenible",
+    "Title3": "Uso de Tecnología Avanzada",
+    "Description1": "Se celebró un evento donde jóvenes presentaron soluciones para mejorar el transporte público, destacando la importancia de la participación comunitaria en la creación de aplicaciones más eficientes.",
+    "Description2": "Una nueva agenda de investigación promueve el uso de aplicaciones móviles que favorezcan la inclusión y sostenibilidad, lo cual es clave para aumentar la aceptación del servicio entre todos los usuarios.",
+    "Description3": "La implementación de tecnologías inteligentes, como sistemas de localización por Bluetooth, está mejorando la experiencia del usuario al ofrecer información en tiempo real y optimizar la gestión de rutas."
+  },
+
+  "Nav": { "Button": "Iniciar sesión" },
+
+  "Dashboard": {
+    "Title": "Usuarios",
+    "Table": {
+      "Name": "Nombre completo",
+      "Email": "Correo electroníco",
+      "Card": "Numero de tarjeta",
+      "Balance": "Saldo",
+      "Status": "Estado",
+      "Activate": "Activar",
+      "Deactivate": "Desactivar"
+    }
+  },
+  "Drawer": {
+    "Option1": "Inicio",
+    "Option2": "Registro",
+    "Option3": "Estadisticas",
+    "Logout": "Cerrar sesión"
+  },
+
+  "Register": {
+    "Title": "Ingresa los siguientes datos para registrar un administrador",
+    "EmailPlaceholder":"Correo electroníco",
+    "PasswordPlaceholder":"Contraseña",
+    "NamePlaceholder":"Nombre",
+    "RepPassPlaceholder":"Repetir Contraseña",
+    "StatusPlaceholder":"Estatus",
+    "Button":"Registrar",
+    "Selector":"Selecciona un estado",
+    "SelectorOpt1":"Activo",
+    "SelectorOpt2":"Inactivo"
+  },
+
+  "Stads":{
+    "Title1":"Usuarios registrados",
+    "Title2":"Usuarios activos",
+    "Title3":"Usuarios inactivos",
+    "Description1":"Cantidad de usuarios registrados actualmente en la aplicacion movil",
+    "Description2":"Cantidad de usuarios activos en la plataforma",
+    "Description3":"Cantidad de usuarios inactivos dentro de la plataforma",
+    "StadTitle":"Saldo por usuario"
+  }
+}
